@@ -1,3 +1,3 @@
-# References
+# Refs
 
-* octocat 1 😈
+* usual suspects 1 😈
